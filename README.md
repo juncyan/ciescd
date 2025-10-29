@@ -1,6 +1,6 @@
 ## Cross-dimensional Information Enhancement Network and a Novel Dataset for Desert Semantic Change Detection
 
-the entire project can achieve [AI Studio](https://aistudio.baidu.com/projectdetail/7245102?sUid=285037&shared=1&ts=1741756831113)
+the entire project can achieve [AI Studio](https://aistudio.baidu.com/projectdetail/9663554?sUid=285037&shared=1&ts=1761739128098)
 
 ### Requirements
 - Python 3.10
